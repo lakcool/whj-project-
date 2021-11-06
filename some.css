@@ -1,0 +1,58 @@
+#Hob{
+    border-radius: 100px;
+    height: 150px;
+
+}
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+h2{
+        text-shadow:2px 2px #f8bbd0;
+        font-size: 20px;
+
+    }
+    hr{
+        height: 10px;
+        width: 100px;
+        background-color: black;
+        border-radius: 75px;
+    }
+    #p{
+        color: purple;
+        font-family: inherit;
+        font-size: 25px;
+
+    }
+    li{
+        display: inline;
+        text-align: right;
+       float: right;
+     
+        padding: 10px;
+        font-family: cursive;
+        color:rgb(211, 76, 76);
+        cursor: pointer;
+      
+    }
+    li:hover{
+        background-color: white;
+    }
+    #About{
+        background-color: violet;
+    }
+       
+   
+    a{
+        text-decoration: none;
+        
+       cursor: pointer;
+      
+        font-family: cursive;
+        color:rgb(211, 76, 76);
+        cursor: pointer;
+    }
+    .sd{
+        height: 200px;
+        width: 200px;
+    }
